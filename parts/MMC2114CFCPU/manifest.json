@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_MCore/MMC2114CFCPU:MMC2114CFCPU",
+  "name": "MMC2114CFCPU",
+  "library": "MCU_NXP_MCore",
+  "file": "MCU_NXP_MCore.kicad_symdir/MMC2114CFCPU.kicad_sym",
+  "description": "Motorola M*CORE  upro 100 pins",
+  "datasheet": "motorola/mmc2114.pdf",
+  "keywords": "",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-mcore@master/parts/MMC2114CFCPU/",
+  "part_path": "parts/MMC2114CFCPU",
+  "symbol_file": "parts/MMC2114CFCPU/MMC2114CFCPU.kicad_sym",
+  "source_library": "MCU_NXP_MCore.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:38.333Z"
+}
